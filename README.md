@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BatteryJuicy
-- 👀 I’m interested in computer science, philosophy and math
-- 🌱 I’m currently going to school
-- 💞️ I’m looking to collaborate on nothing, I don't know what is the fuss about this platform
+- 👀 I’m interested in computer science, philosophy, and maths
 - 📫 How to reach me: well don't
 
 <!---
