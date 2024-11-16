@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andreas Thanopoulos</h1>
 <h3 align="center">A computer sience undergrad at the university of Crete</h3>
 
-- 🔭 I’m currently working on **data structures in C**
+- 🔭 I’m currently working on **PvE battleships with C++**
+- 🔬 I’m currently learning **data structures in C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
