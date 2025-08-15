@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PvE battleships with C++](https://github.com/BatteryJuicy/battleships.git)
 
-- 🔬 I’m currently learning **data structures in C, neuroevolutionary AI**
+- 🔬 I’m currently learning **data structures in C, neuroevolution AI**
 - 🚀 My dreams and aspirations are **to revolutionize AI with quantum computers**
 
 <h3 align="left">Languages and Tools:</h3>
