@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I am Andreas Thanopoulos</h1>
-<h3 align="center">A computer science undergrad at the University of Crete</h3>
+<h1 align="center">I am Andreas Thanopoulos</h1>
+<h3 align="center">A computer science undergraduate at the University of Crete</h3>
 
 - 🔭 I’m currently working on [PvE battleships with C++](https://github.com/BatteryJuicy/battleships.git)
 
